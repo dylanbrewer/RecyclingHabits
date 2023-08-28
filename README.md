@@ -4,6 +4,10 @@ Dylan Brewer and Samantha Cameron
 
 Conditionally accepted at *Journal of Policy Analysis and Management*
 
+Github link: https://github.com/dylanbrewer/RecyclingHabits
+
+Zenodo link:  [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.8292759.svg)](https://doi.org/10.5281/zenodo.8292759) 10.5281/zenodo.8292759
+
 ## Overview
 
 This replication package contains all files required to reproduce results, tables, and figures using Stata, R, and Python.
@@ -130,4 +134,4 @@ The provided code reproduces all numbers, results, tables, and figures in the pa
 
 ## Acknowledgements
 
-This code is based on AEA data editor's readme guidelines. (https://aeadataeditor.github.io/posts/2020-12-08-template-readme).  Some content on this page was copied from [Hindawi](https://www.hindawi.com/research.data/#statement.templates). Other content was adapted from [Fort (2016)](https://doi.org/10.1093/restud/rdw057) and [Hollingsworth, Wing, and Bradford (2022)](https://doi.org/10.5281/zenodo.6626309).
+This code is based on the AEA data editor readme guidelines (https://aeadataeditor.github.io/posts/2020-12-08-template-readme).  Some content on this page was copied from [Hindawi](https://www.hindawi.com/research.data/#statement.templates). Other content was adapted from [Fort (2016)](https://doi.org/10.1093/restud/rdw057) and [Hollingsworth, Wing, and Bradford (2022)](https://doi.org/10.5281/zenodo.6626309).
