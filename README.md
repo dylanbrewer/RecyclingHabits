@@ -12,7 +12,7 @@ The entire project can be replicated using the `01_setup_202308.do` file in Stat
 
 ## Data Sources and Files
 
-All data used in this paper are publicly available or licensed for academic use.  Original data files are located in the `\data\raw` directory.
+All data used in this paper are publicly available and are archived in the Zenodo repository.  Original data files are located in the `\data\raw` directory, whereas intermediate or final data files are located in the `data\final` directory.
 
 1. Department of Sanitation of New York City (DSNY) administrative waste data
     - Publicly available on New York City's Open Data portal: "DSNY monthly tonnage data" https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
