@@ -1,0 +1,44 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{4}{c}}
+\hline\hline
+          &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
+          &\multicolumn{1}{c}{\shortstack{SDID\\Partialed}}&\multicolumn{1}{c}{\shortstack{SDID\\Unstacked}}&\multicolumn{1}{c}{\shortstack{Fractional\\DID}}&\multicolumn{1}{c}{\shortstack{Synthetic\\Control}}\\
+\hline
+1998 X Treated&                  &                  &   0.0172\sym{**} &                  \\
+          &                  &                  &  (0.002)         &                  \\
+[1em]
+1999 X Treated&                  &                  &   0.0378\sym{***}&                  \\
+          &                  &                  &  (0.000)         &                  \\
+[1em]
+2000 X Treated&                  &                  &   0.0508\sym{***}&                  \\
+          &                  &                  &  (0.000)         &                  \\
+[1em]
+2002 X Treated&  -0.0664\sym{***}&  -0.0653         &  -0.0654\sym{***}& -0.00957         \\
+          &  (0.000)         &  (0.066)         &  (0.000)         &  (0.870)         \\
+[1em]
+2003 X Treated&  -0.0991\sym{***}&  -0.0970\sym{**} &   -0.157\sym{***}&  -0.0611         \\
+          &  (0.000)         &  (0.009)         &  (0.000)         &  (0.318)         \\
+[1em]
+2004 X Treated&  -0.0340\sym{***}&  -0.0309         &  -0.0200         &  -0.0541         \\
+          &  (0.000)         &  (0.449)         &  (0.110)         &  (0.391)         \\
+[1em]
+2005 X Treated& -0.00526         &-0.000257         &   0.0206         &  -0.0273         \\
+          &  (0.511)         &  (0.995)         &  (0.097)         &  (0.677)         \\
+[1em]
+2006 X Treated& -0.00313         &  0.00450         &   0.0256         &  -0.0609         \\
+          &  (0.712)         &  (0.913)         &  (0.054)         &  (0.344)         \\
+[1em]
+2007 X Treated& -0.00579         &  0.00301         &   0.0204         &  -0.0115         \\
+          &  (0.556)         &  (0.947)         &  (0.151)         &  (0.833)         \\
+[1em]
+2008 X Treated&  -0.0242\sym{*}  &  -0.0132         &  0.00229         &  -0.0579         \\
+          &  (0.021)         &  (0.760)         &  (0.884)         &  (0.406)         \\
+\hline
+\(N\)     &     2520         &     2520         &     2520         &     2496         \\
+Treated units&        3         &        3         &        3         &        1         \\
+Control units&      207         &      207         &      207         &      207         \\
+Controls selected&      202         &      201         &      207         &        2         \\
+\hline\hline
+\end{tabular}
+}
