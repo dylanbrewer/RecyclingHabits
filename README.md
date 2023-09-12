@@ -2,11 +2,11 @@
 
 Dylan Brewer and Samantha Cameron
 
-Conditionally accepted at *Journal of Policy Analysis and Management*
+Accepted at *Journal of Policy Analysis and Management*
 
 Github link: https://github.com/dylanbrewer/RecyclingHabits
 
-Zenodo link:  [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.8292759.svg)](https://doi.org/10.5281/zenodo.8292759) 10.5281/zenodo.8292759
+Zenodo link:  [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.8292758.svg)](https://doi.org/10.5281/zenodo.8292758) 10.5281/zenodo.8292758
 
 ## Overview
 
